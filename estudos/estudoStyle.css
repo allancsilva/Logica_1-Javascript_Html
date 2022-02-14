@@ -1,0 +1,12 @@
+/* Aqui o meu primeiro codigo CSS */
+body{
+		background: blue;
+		font: 18px;
+}
+p {
+    text-align: center;
+}
+h1 {
+		text-align: center;
+		background: #CCCCCC;
+}
