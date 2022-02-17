@@ -12,6 +12,13 @@
 		 fun
 		 function 
 		 
+		 function name
+		 write
+		 number
+		 <script>
+
+		</script>
+		
 		 
      function name(arg) {
        
